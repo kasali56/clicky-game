@@ -1,0 +1,19 @@
+{
+  "name": "clicky-game-tk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasali56/clicky-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasali56/clicky-game/issues"
+  },
+  "homepage": "https://github.com/kasali56/clicky-game#readme"
+}
